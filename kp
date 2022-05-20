@@ -1,0 +1,7 @@
+<template>
+    <lightning-card title="Welcome Form">
+        <div class="slds-m-around_medium">
+            <h1> Hello World </h1>
+        </div>
+    </lightning-card>
+</template>
